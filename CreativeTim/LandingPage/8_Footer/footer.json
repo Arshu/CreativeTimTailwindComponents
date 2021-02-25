@@ -1,0 +1,56 @@
+{
+  "FooterTitle": "Let's keep in touch!",
+  "FooterDescription": "Find us on any of these platforms, we respond 1-2 business days.",
+  "FooterCopywriteText": " Copyright © 2019 Tailwind Starter Kit by",
+  "FooterCopywriteName": "Creative Tim",
+  "FooterUsefulLinkTitle": "Useful Links",
+  "ShowFooterShareLinkTwitter": true,
+  "ShowFooterShareLinkFacebook": true,
+  "ShowFooterShareLinkDribble": true,
+  "ShowFooterShareLinkGithub": true,
+  "FooterUsefulLinks": [
+    {
+      "FooterUsefulLink": "https://www.creative-tim.com/presentation",
+      "FooterUsefulLinkText": "About Us",
+      "Process": true
+    },
+    {
+      "FooterUsefulLink": "https://blog.creative-tim.com",
+      "FooterUsefulLinkText": "Blog",
+      "Process": true
+    },
+    {
+      "FooterUsefulLink": "https://www.github.com/creativetimofficial",
+      "FooterUsefulLinkText": "Github",
+      "Process": true
+    },
+    {
+      "FooterUsefulLink": "https://www.creative-tim.com/bootstrap-themes/free",
+      "FooterUsefulLinkText": "Free Products",
+      "Process": true
+    }
+  ],
+  "FooterOtherLinkTitle": "Other Resources",
+  "FooterOtherLinks": [
+    {
+      "FooterOtherLink": "https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md",
+      "FooterOtherLinkText": "MIT License",
+      "Process": true
+    },
+    {
+      "FooterOtherLink": "https://creative-tim.com/terms",
+      "FooterOtherLinkText": "Terms &amp; Conditions",
+      "Process": true
+    },
+    {
+      "FooterOtherLink": "https://creative-tim.com/privacy",
+      "FooterOtherLinkText": "Privacy Policy",
+      "Process": true
+    },
+    {
+      "FooterOtherLink": "https://creative-tim.com/contact-us",
+      "FooterOtherLinkText": "Contact Us",
+      "Process": true
+    }
+  ]
+}

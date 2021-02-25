@@ -1,0 +1,49 @@
+{
+  "TeamTitle": "Here are our heroes",
+  "TeamDescription": "According to the National Oceanic and Atmospheric Administration, Ted, Scambos, NSIDClead scentist, puts the potentially record maximum.",
+  "TeamList": [
+    {
+      "TeamMemberImage": "/Assets/Images/team-1-800x800.jpg",
+      "TeamMemberName": "Ryan Tompson",
+      "TeamMemberRole": "Web Developer",
+      "ShowTeamMemberTwitter": true,
+      "ShowTeamMemberFacebook": true,
+      "ShowTeamMemberDribble": true,
+      "ShowTeamMemberGoogle": false,
+      "Process": true
+    },
+    {
+      "TeamMemberImage": "/Assets/Images/team-2-800x800.jpg",
+      "TeamMemberName": "Romina Hadid",
+      "TeamMemberRole": "Marketing Specialist",
+      "ShowTeamMemberTwitter": false,
+      "ShowTeamMemberFacebook": true,
+      "ShowTeamMemberDribble": false,
+      "ShowTeamMemberGoogle": true,
+      "ShowTeamMemberInstagram": false,
+      "Process": true
+    },
+    {
+      "TeamMemberImage": "/Assets/Images/team-3-800x800.jpg",
+      "TeamMemberName": "Alexa Smith",
+      "TeamMemberRole": "UI/UX Designer",
+      "ShowTeamMemberTwitter": true,
+      "ShowTeamMemberFacebook": false,
+      "ShowTeamMemberDribble": false,
+      "ShowTeamMemberGoogle": true,
+      "ShowTeamMemberInstagram": true,
+      "Process": true
+    },
+    {
+      "TeamMemberImage": "/Assets/Images/team-4-470x470.png",
+      "TeamMemberName": "Jenna Kardi",
+      "TeamMemberRole": "Founder and CEO",
+      "ShowTeamMemberTwitter": true,
+      "ShowTeamMemberFacebook": false,
+      "ShowTeamMemberDribble": true,
+      "ShowTeamMemberGoogle": true,
+      "ShowTeamMemberInstagram": true,
+      "Process": true
+    }
+  ]
+}

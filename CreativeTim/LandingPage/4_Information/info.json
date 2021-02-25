@@ -1,0 +1,21 @@
+{
+  "InfoTitle": "A growing company",
+  "InfoDescription": "The extension comes with three pre-built pages to help you get started faster. You can change the text and images and you're good to go.",
+  "InfoList": [
+    {
+      "InfoIcon": "fa-fingerprint",
+      "InfoText": "Carefully crafted components",
+      "Process": true
+    },
+    {
+      "InfoIcon": "fa-html5",
+      "InfoText": "Amazing page examples",
+      "Process": true
+    },
+    {
+      "InfoIcon": "fa-paper-plane",
+      "InfoText": "Dynamic components",
+      "Process": true
+    }
+  ]
+}

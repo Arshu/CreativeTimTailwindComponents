@@ -1,0 +1,24 @@
+{
+  "ActionTitle": "Build something",
+  "ActionDescription": "Put the potentially record low maximum sea ice extent tihs year down to low ice. According to the National Oceanic and Atmospheric Administration, Ted, Scambos.",
+  "ActionLists": [
+    {
+      "ActionListIcon": "fa-medal",
+      "ActionListName": "Excelent Services",
+      "ActionListText": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Process": true
+    },
+    {
+      "ActionListIcon": "fa-poll",
+      "ActionListName": "Grow your market",
+      "ActionListText": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Process": true
+    },
+    {
+      "ActionListIcon": "fa-lightbulb",
+      "ActionListName": "Launch time",
+      "ActionListText": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "Process": true
+    }
+  ]
+}

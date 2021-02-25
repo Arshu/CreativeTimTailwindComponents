@@ -1,0 +1,42 @@
+{
+  "NavTitle": "Tailwind Starter Kit 1",
+  "ShowNavLeftList": "False",
+  "NavLeftList": [
+    {
+      "NavLeftLabel": "Docs",
+      "NavLeftIcon": "fa-file-alt",
+      "NavLeftLink": "https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/landing",
+      "Process": "False"
+    }
+  ],
+  "ShowNavRightList": "True",
+  "NavRightList": [
+    {
+      "NavRightLabel": "Share",
+      "NavRightIcon": "fa-facebook",
+      "NavRightLink": "#pablo",
+      "Process": "True"
+    },
+    {
+      "NavRightLabel": "Tweet",
+      "NavRightIcon": "fa-twitter",
+      "NavRightLink": "#pablo",
+      "Process": "True"
+    },
+    {
+      "NavRightLabel": "Star",
+      "NavRightIcon": "fa-github",
+      "NavRightLink": "#pablo",
+      "Process": "True"
+    }
+  ],
+  "NavRightButtonList": [
+
+    {
+      "NavRightButtonLabel": "Download",
+      "NavRightButtonIcon": "fa-arrow-alt-circle-down",
+      "NavRightButtonClick": "",
+      "Process": "False"
+    }
+  ]
+}

@@ -6,4 +6,4 @@ Github Link is https://github.com/creativetimofficial/tailwind-starter-kit
 
 A Experiment to Find the Usability of the Abstraction - UI as F(Structure, JsonData and ActionInJson) successfully used for imperative development to make it declarative and enable assembly
 
-Componentizing Html Templates into Html Fragments and Json Data to build a web site / web app
+Assemble from any git url the Html Components sing Html Fragments and Json Data (Currently) to build a web site / web app using Arshu Html Viewer/Assembler POC published at https://vindyap.com

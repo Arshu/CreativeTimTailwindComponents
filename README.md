@@ -1,6 +1,6 @@
 # CreativeTim Tailwind Starter Template Converted to Html Components (Html Fragments/ Json Data)
 
-Tailwind Html Starter Templates from  CreattiveTim licensed as MIT Licensed published at https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation is used to prepare these Html Components
+Tailwind Html Starter Templates from  CreativeTim licensed as MIT Licensed published at https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation is used to prepare these Html Components
 
 Github Link is https://github.com/creativetimofficial/tailwind-starter-kit
 

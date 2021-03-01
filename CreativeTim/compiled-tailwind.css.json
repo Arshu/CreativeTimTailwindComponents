@@ -1,9 +1,9 @@
 {
     "StylesheetName" : "compiled-tailwind.css",    
-    "RelativePath" : "Templates\\Tailwind\\CreativeTim\\compiled-tailwind.css",    
+    "RelativePath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\compiled-tailwind.css",    
     "ParseTimeInSec" : 0.01,    
-    "ParseStyleTimeInSec" : 0.02,    
-    "ParseMediaTimeInSec" : 0,    
+    "ParseStyleTimeInSec" : 0.03,    
+    "ParseMediaTimeInSec" : 0.01,    
     "LoadTimeInSec" : 0,    
     "FontRuleList" : [
         

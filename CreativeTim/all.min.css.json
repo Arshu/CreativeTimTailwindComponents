@@ -1,8 +1,8 @@
 {
     "StylesheetName" : "all.min.css",    
-    "RelativePath" : "Templates\\Tailwind\\CreativeTim\\all.min.css",    
-    "ParseTimeInSec" : 0.01,    
-    "ParseStyleTimeInSec" : 0.1,    
+    "RelativePath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\all.min.css",    
+    "ParseTimeInSec" : 0.02,    
+    "ParseStyleTimeInSec" : 0.24,    
     "ParseMediaTimeInSec" : 0,    
     "LoadTimeInSec" : 0,    
     "FontRuleList" : [

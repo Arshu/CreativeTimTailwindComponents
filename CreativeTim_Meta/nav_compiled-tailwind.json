@@ -1,0 +1,522 @@
+{
+    "ComponentPath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html",    
+    "StylesheetName" : "compiled-tailwind.css",    
+    "RelativePath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\compiled-tailwind.css",    
+    "HtmlTagList" : [
+        "nav","div","a","button","i","ul","li","span","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "top-0","z-50","w-full","flex","flex-wrap","items-center","justify-between","px-2","py-3","navbar-expand-lg","opacity-100","bg-black","container","px-4","mx-auto","relative","lg:w-auto","lg:static","lg:block","lg:justify-start","text-sm","font-bold","leading-relaxed","inline-block","mr-4","py-2","whitespace-no-wrap","uppercase","text-white","cursor-pointer","text-xl","leading-none","px-3","py-1","border","border-solid","border-transparent","rounded","bg-transparent","block","lg:hidden","outline-none","focus:outline-none","fas","fa-bars","lg:flex","flex-grow","bg-white","lg:bg-transparent","lg:shadow-none","hidden","flex-col","lg:flex-row","list-none","mr-auto","lg:text-white","lg:hover:text-gray-300","text-gray-800","py-4","lg:py-2","text-xs","lg:text-gray-300","text-gray-500","far","fa-file-alt","text-lg","leading-lg","mr-2","lg:ml-auto","fab","fa-facebook","","ml-2","fa-twitter","fa-github","active:bg-gray-100","shadow","hover:shadow-md","lg:mr-1","lg:mb-0","ml-3","mb-3"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "nav","div","i","li","span"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".navbar-expand-lg",".opacity-100",".focus:outline-none",".fas",".fa-bars",".lg:hover:text-gray-300",".far",".fa-file-alt",".leading-lg",".fab",".fa-facebook",".fa-twitter",".fa-github",".active:bg-gray-100",".hover:shadow-md"
+    ],    
+    "CssTagStyleList" : [
+        
+        {
+            "Key" : "a",            
+            "Value" : [
+                "a {\n  background-color: transparent;\n}","a {\n  color: inherit;\n  text-decoration: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : "button,input,textarea",            
+            "Value" : [
+                "button,\ninput,\ntextarea {\n  font-family: inherit; /* 1 */\n  font-size: 100%; /* 1 */\n  line-height: 1.15; /* 1 */\n  margin: 0; /* 2 */\n}","button,\ninput,\ntextarea {\n  padding: 0;\n  line-height: inherit;\n  color: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : "button,input",            
+            "Value" : [
+                "button,\ninput { /* 1 */\n  overflow: visible;\n}"
+            ]
+        },
+        {
+            "Key" : "button",            
+            "Value" : [
+                "button { /* 1 */\n  text-transform: none;\n}","button {\n  background: transparent;\n  padding: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "button,[type=\"button\"],[type=\"reset\"],[type=\"submit\"]",            
+            "Value" : [
+                "button,\n[type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}"
+            ]
+        },
+        {
+            "Key" : "button,[role=\"button\"]",            
+            "Value" : [
+                "button,\n[role=\"button\"] {\n  cursor: pointer;\n}"
+            ]
+        },
+        {
+            "Key" : "ul",            
+            "Value" : [
+                "ul {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "html",            
+            "Value" : [
+                "html {\n  line-height: 1.15; /* 1 */\n  -webkit-text-size-adjust: 100%; /* 2 */\n}","html {\n  box-sizing: border-box; /* 1 */\n  font-family: sans-serif; /* 2 */\n}","html {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"; /* 1 */\n  line-height: 1.5; /* 2 */\n}"
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                "body {\n  margin: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "main",            
+            "Value" : [
+                "main {\n  display: block;\n}"
+            ]
+        },
+        {
+            "Key" : "*,*::before,*::after",            
+            "Value" : [
+                "*,\n*::before,\n*::after {\n  box-sizing: inherit;\n}","*,\n*::before,\n*::after {\n  border-width: 0;\n  border-style: solid;\n  border-color: #e2e8f0;\n}"
+            ]
+        }
+    ],    
+    "CssClassStyleList" : [
+        
+        {
+            "Key" : ".top-0",            
+            "Value" : [
+                ".top-0 {\n  top: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".z-50",            
+            "Value" : [
+                ".z-50 {\n  z-index: 50;\n}"
+            ]
+        },
+        {
+            "Key" : ".w-full",            
+            "Value" : [
+                ".w-full {\n  width: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".flex",            
+            "Value" : [
+                ".flex {\n  display: -webkit-box;\n  display: flex;\n}"
+            ]
+        },
+        {
+            "Key" : ".flex-wrap",            
+            "Value" : [
+                ".flex-wrap {\n  flex-wrap: wrap;\n}"
+            ]
+        },
+        {
+            "Key" : ".items-center",            
+            "Value" : [
+                ".items-center {\n  -webkit-box-align: center;\n          align-items: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".justify-between",            
+            "Value" : [
+                ".justify-between {\n  -webkit-box-pack: justify;\n          justify-content: space-between;\n}"
+            ]
+        },
+        {
+            "Key" : ".px-2",            
+            "Value" : [
+                ".px-2 {\n  padding-left: 0.5rem;\n  padding-right: 0.5rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".py-3",            
+            "Value" : [
+                ".py-3 {\n  padding-top: 0.75rem;\n  padding-bottom: 0.75rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-black",            
+            "Value" : [
+                ".bg-black {\n  background-color: #000;\n}"
+            ]
+        },
+        {
+            "Key" : ".container",            
+            "Value" : [
+                ".container {\n  width: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".px-4",            
+            "Value" : [
+                ".px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".mx-auto",            
+            "Value" : [
+                ".mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".relative",            
+            "Value" : [
+                ".relative {\n  position: relative;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-sm",            
+            "Value" : [
+                ".text-sm {\n  font-size: 0.875rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".font-bold",            
+            "Value" : [
+                ".font-bold {\n  font-weight: 700;\n}"
+            ]
+        },
+        {
+            "Key" : ".leading-relaxed",            
+            "Value" : [
+                ".leading-relaxed {\n  line-height: 1.625;\n}"
+            ]
+        },
+        {
+            "Key" : ".inline-block",            
+            "Value" : [
+                ".inline-block {\n  display: inline-block;\n}"
+            ]
+        },
+        {
+            "Key" : ".mr-4",            
+            "Value" : [
+                ".mr-4 {\n  margin-right: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".py-2",            
+            "Value" : [
+                ".py-2 {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".whitespace-no-wrap",            
+            "Value" : [
+                ".whitespace-no-wrap {\n  white-space: nowrap;\n}"
+            ]
+        },
+        {
+            "Key" : ".uppercase",            
+            "Value" : [
+                ".uppercase {\n  text-transform: uppercase;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-white",            
+            "Value" : [
+                ".text-white {\n  color: #fff;\n}"
+            ]
+        },
+        {
+            "Key" : ".cursor-pointer",            
+            "Value" : [
+                ".cursor-pointer {\n  cursor: pointer;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-xl",            
+            "Value" : [
+                ".text-xl {\n  font-size: 1.25rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".leading-none",            
+            "Value" : [
+                ".leading-none {\n  line-height: 1;\n}"
+            ]
+        },
+        {
+            "Key" : ".px-3",            
+            "Value" : [
+                ".px-3 {\n  padding-left: 0.75rem;\n  padding-right: 0.75rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".py-1",            
+            "Value" : [
+                ".py-1 {\n  padding-top: 0.25rem;\n  padding-bottom: 0.25rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".border",            
+            "Value" : [
+                ".border {\n  border-width: 1px;\n}"
+            ]
+        },
+        {
+            "Key" : ".border-solid",            
+            "Value" : [
+                ".border-solid {\n  border-style: solid;\n}"
+            ]
+        },
+        {
+            "Key" : ".border-transparent",            
+            "Value" : [
+                ".border-transparent {\n  border-color: transparent;\n}"
+            ]
+        },
+        {
+            "Key" : ".rounded",            
+            "Value" : [
+                ".rounded {\n  border-radius: 0.25rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-transparent",            
+            "Value" : [
+                ".bg-transparent {\n  background-color: transparent;\n}"
+            ]
+        },
+        {
+            "Key" : ".block",            
+            "Value" : [
+                ".block {\n  display: block;\n}"
+            ]
+        },
+        {
+            "Key" : ".outline-none",            
+            "Value" : [
+                ".outline-none {\n  outline: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".flex-grow",            
+            "Value" : [
+                ".flex-grow {\n  -webkit-box-flex: 1;\n          flex-grow: 1;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-white",            
+            "Value" : [
+                ".bg-white {\n  background-color: #fff;\n}"
+            ]
+        },
+        {
+            "Key" : ".hidden",            
+            "Value" : [
+                ".hidden {\n  display: none;\n}"
+            ]
+        },
+        {
+            "Key" : ".flex-col",            
+            "Value" : [
+                ".flex-col {\n  -webkit-box-orient: vertical;\n  -webkit-box-direction: normal;\n          flex-direction: column;\n}"
+            ]
+        },
+        {
+            "Key" : ".list-none",            
+            "Value" : [
+                ".list-none {\n  list-style-type: none;\n}"
+            ]
+        },
+        {
+            "Key" : ".mr-auto",            
+            "Value" : [
+                ".mr-auto {\n  margin-right: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-gray-800",            
+            "Value" : [
+                ".text-gray-800 {\n  color: #2d3748;\n}"
+            ]
+        },
+        {
+            "Key" : ".py-4",            
+            "Value" : [
+                ".py-4 {\n  padding-top: 1rem;\n  padding-bottom: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-xs",            
+            "Value" : [
+                ".text-xs {\n  font-size: 0.75rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-gray-500",            
+            "Value" : [
+                ".text-gray-500 {\n  color: #a0aec0;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-lg",            
+            "Value" : [
+                ".text-lg {\n  font-size: 1.125rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".mr-2",            
+            "Value" : [
+                ".mr-2 {\n  margin-right: 0.5rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".ml-2",            
+            "Value" : [
+                ".ml-2 {\n  margin-left: 0.5rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".shadow",            
+            "Value" : [
+                ".shadow {\n  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);\n}"
+            ]
+        },
+        {
+            "Key" : ".ml-3",            
+            "Value" : [
+                ".ml-3 {\n  margin-left: 0.75rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".mb-3",            
+            "Value" : [
+                ".mb-3 {\n  margin-bottom: 0.75rem;\n}"
+            ]
+        }
+    ],    
+    "CssTagMediaList" : [
+        
+    ],    
+    "CssClassMediaList" : [
+        
+        {
+            "Key" : "@media (min-width: 640px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 640px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 768px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 768px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 1024px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1280px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 1280px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:w-auto }",            
+            "Value" : [
+                ".lg\\:w-auto {\n    width: auto;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:static }",            
+            "Value" : [
+                ".lg\\:static {\n    position: static;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:block }",            
+            "Value" : [
+                ".lg\\:block {\n    display: block;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:justify-start }",            
+            "Value" : [
+                ".lg\\:justify-start {\n    -webkit-box-pack: start;\n            justify-content: flex-start;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:hidden }",            
+            "Value" : [
+                ".lg\\:hidden {\n    display: none;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:flex }",            
+            "Value" : [
+                ".lg\\:flex {\n    display: -webkit-box;\n    display: flex;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:bg-transparent }",            
+            "Value" : [
+                ".lg\\:bg-transparent {\n    background-color: transparent;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:shadow-none }",            
+            "Value" : [
+                ".lg\\:shadow-none {\n    box-shadow: none;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:flex-row }",            
+            "Value" : [
+                ".lg\\:flex-row {\n    -webkit-box-orient: horizontal;\n    -webkit-box-direction: normal;\n            flex-direction: row;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:text-white }",            
+            "Value" : [
+                ".lg\\:text-white {\n    color: #fff;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:py-2 }",            
+            "Value" : [
+                ".lg\\:py-2 {\n    padding-top: 0.5rem;\n    padding-bottom: 0.5rem;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:text-gray-300 }",            
+            "Value" : [
+                ".lg\\:text-gray-300 {\n    color: #e2e8f0;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:ml-auto }",            
+            "Value" : [
+                ".lg\\:ml-auto {\n    margin-left: auto;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:mr-1 }",            
+            "Value" : [
+                ".lg\\:mr-1 {\n    margin-right: 0.25rem;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:mb-0 }",            
+            "Value" : [
+                ".lg\\:mb-0 {\n    margin-bottom: 0;\n  }"
+            ]
+        }
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : null,    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

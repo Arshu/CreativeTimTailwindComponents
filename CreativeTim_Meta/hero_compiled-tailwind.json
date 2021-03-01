@@ -1,0 +1,654 @@
+{
+    "ComponentPath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\2_Hero\\hero.html",    
+    "StylesheetName" : "compiled-tailwind.css",    
+    "RelativePath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\compiled-tailwind.css",    
+    "HtmlTagList" : [
+        "div","span","h1","p","svg","polygon","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "relative","pt-16","pb-32","flex","content-center","items-center","justify-center","absolute","top-0","w-full","h-full","bg-center","bg-cover","opacity-75","bg-black","container","mx-auto","flex-wrap","lg:w-6/12","px-4","ml-auto","mr-auto","text-center","text-white","font-semibold","text-5xl","mt-4","text-lg","text-gray-300","top-auto","bottom-0","left-0","right-0","pointer-events-none","overflow-hidden","fill-current"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "div","span","polygon"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        
+    ],    
+    "CssTagStyleList" : [
+        
+        {
+            "Key" : "h1",            
+            "Value" : [
+                "h1 {\n  font-size: 2em;\n  margin: 0.67em 0;\n}"
+            ]
+        },
+        {
+            "Key" : "blockquote,dl,h1,h2,h3,h4,h5,h6,hr,p",            
+            "Value" : [
+                "blockquote,\ndl,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\nhr,\np {\n  margin: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "h1,h2,h3,h4,h5,h6",            
+            "Value" : [
+                "h1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-size: inherit;\n  font-weight: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : "img,svg,canvas,iframe",            
+            "Value" : [
+                "img,\nsvg,\ncanvas,\niframe {\n  display: block;\n  vertical-align: middle;\n}"
+            ]
+        },
+        {
+            "Key" : "html",            
+            "Value" : [
+                "html {\n  line-height: 1.15; /* 1 */\n  -webkit-text-size-adjust: 100%; /* 2 */\n}","html {\n  box-sizing: border-box; /* 1 */\n  font-family: sans-serif; /* 2 */\n}","html {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"; /* 1 */\n  line-height: 1.5; /* 2 */\n}"
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                "body {\n  margin: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "main",            
+            "Value" : [
+                "main {\n  display: block;\n}"
+            ]
+        },
+        {
+            "Key" : "*,*::before,*::after",            
+            "Value" : [
+                "*,\n*::before,\n*::after {\n  box-sizing: inherit;\n}","*,\n*::before,\n*::after {\n  border-width: 0;\n  border-style: solid;\n  border-color: #e2e8f0;\n}"
+            ]
+        }
+    ],    
+    "CssClassStyleList" : [
+        
+        {
+            "Key" : ".relative",            
+            "Value" : [
+                ".relative {\n  position: relative;\n}"
+            ]
+        },
+        {
+            "Key" : ".pt-16",            
+            "Value" : [
+                ".pt-16 {\n  padding-top: 4rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".pb-32",            
+            "Value" : [
+                ".pb-32 {\n  padding-bottom: 8rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".flex",            
+            "Value" : [
+                ".flex {\n  display: -webkit-box;\n  display: flex;\n}"
+            ]
+        },
+        {
+            "Key" : ".content-center",            
+            "Value" : [
+                ".content-center {\n  align-content: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".items-center",            
+            "Value" : [
+                ".items-center {\n  -webkit-box-align: center;\n          align-items: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".justify-center",            
+            "Value" : [
+                ".justify-center {\n  -webkit-box-pack: center;\n          justify-content: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".absolute",            
+            "Value" : [
+                ".absolute {\n  position: absolute;\n}"
+            ]
+        },
+        {
+            "Key" : ".top-0",            
+            "Value" : [
+                ".top-0 {\n  top: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".w-full",            
+            "Value" : [
+                ".w-full {\n  width: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".h-full",            
+            "Value" : [
+                ".h-full {\n  height: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-center",            
+            "Value" : [
+                ".bg-center {\n  background-position: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-cover",            
+            "Value" : [
+                ".bg-cover {\n  background-size: cover;\n}"
+            ]
+        },
+        {
+            "Key" : ".opacity-75",            
+            "Value" : [
+                ".opacity-75 {\n  opacity: 0.75;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-black",            
+            "Value" : [
+                ".bg-black {\n  background-color: #000;\n}"
+            ]
+        },
+        {
+            "Key" : ".container",            
+            "Value" : [
+                ".container {\n  width: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".mx-auto",            
+            "Value" : [
+                ".mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".flex-wrap",            
+            "Value" : [
+                ".flex-wrap {\n  flex-wrap: wrap;\n}"
+            ]
+        },
+        {
+            "Key" : ".px-4",            
+            "Value" : [
+                ".px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".ml-auto",            
+            "Value" : [
+                ".ml-auto {\n  margin-left: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".mr-auto",            
+            "Value" : [
+                ".mr-auto {\n  margin-right: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-center",            
+            "Value" : [
+                ".text-center {\n  text-align: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-white",            
+            "Value" : [
+                ".text-white {\n  color: #fff;\n}"
+            ]
+        },
+        {
+            "Key" : ".font-semibold",            
+            "Value" : [
+                ".font-semibold {\n  font-weight: 600;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-5xl",            
+            "Value" : [
+                ".text-5xl {\n  font-size: 3rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".mt-4",            
+            "Value" : [
+                ".mt-4 {\n  margin-top: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-lg",            
+            "Value" : [
+                ".text-lg {\n  font-size: 1.125rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-gray-300",            
+            "Value" : [
+                ".text-gray-300 {\n  color: #e2e8f0;\n}"
+            ]
+        },
+        {
+            "Key" : ".top-auto",            
+            "Value" : [
+                ".top-auto {\n  top: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".bottom-0",            
+            "Value" : [
+                ".bottom-0 {\n  bottom: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".left-0",            
+            "Value" : [
+                ".left-0 {\n  left: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".right-0",            
+            "Value" : [
+                ".right-0 {\n  right: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".pointer-events-none",            
+            "Value" : [
+                ".pointer-events-none {\n  pointer-events: none;\n}"
+            ]
+        },
+        {
+            "Key" : ".overflow-hidden",            
+            "Value" : [
+                ".overflow-hidden {\n  overflow: hidden;\n}"
+            ]
+        },
+        {
+            "Key" : ".fill-current",            
+            "Value" : [
+                ".fill-current {\n  fill: currentColor;\n}"
+            ]
+        }
+    ],    
+    "CssTagMediaList" : [
+        
+    ],    
+    "CssClassMediaList" : [
+        
+        {
+            "Key" : "@media (min-width: 640px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 640px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 768px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 768px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 1024px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1280px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 1280px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:w-612 }",            
+            "Value" : [
+                ".lg\\:w-6\\/12 {\n    width: 50%;\n  }"
+            ]
+        }
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : 
+    {
+        "a" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "button,input,textarea" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "button,input" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "button" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "button,[type=\"button\"],[type=\"reset\"],[type=\"submit\"]" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "button,[role=\"button\"]" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "ul" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "html" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "body" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "main" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "*,*::before,*::after" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "h1" : [
+            
+        ],        
+        "blockquote,dl,h1,h2,h3,h4,h5,h6,hr,p" : [
+            
+        ],        
+        "h1,h2,h3,h4,h5,h6" : [
+            
+        ],        
+        "img,svg,canvas,iframe" : [
+            
+        ]
+    },    
+    "CssClassMeta" : 
+    {
+        ".top-0" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".z-50" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".w-full" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".flex" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".flex-wrap" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".items-center" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".justify-between" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".px-2" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".py-3" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".bg-black" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".container" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".px-4" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".mx-auto" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".relative" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".text-sm" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".font-bold" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".leading-relaxed" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".inline-block" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".mr-4" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".py-2" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".whitespace-no-wrap" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".uppercase" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".text-white" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".cursor-pointer" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".text-xl" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".leading-none" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".px-3" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".py-1" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".border" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".border-solid" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".border-transparent" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".rounded" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".bg-transparent" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".block" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".outline-none" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".flex-grow" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".bg-white" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".hidden" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".flex-col" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".list-none" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".mr-auto" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".text-gray-800" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".py-4" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".text-xs" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".text-gray-500" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".text-lg" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".mr-2" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".ml-2" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".shadow" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".ml-3" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".mb-3" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        ".pt-16" : [
+            
+        ],        
+        ".pb-32" : [
+            
+        ],        
+        ".content-center" : [
+            
+        ],        
+        ".justify-center" : [
+            
+        ],        
+        ".absolute" : [
+            
+        ],        
+        ".h-full" : [
+            
+        ],        
+        ".bg-center" : [
+            
+        ],        
+        ".bg-cover" : [
+            
+        ],        
+        ".opacity-75" : [
+            
+        ],        
+        ".ml-auto" : [
+            
+        ],        
+        ".text-center" : [
+            
+        ],        
+        ".font-semibold" : [
+            
+        ],        
+        ".text-5xl" : [
+            
+        ],        
+        ".mt-4" : [
+            
+        ],        
+        ".text-gray-300" : [
+            
+        ],        
+        ".top-auto" : [
+            
+        ],        
+        ".bottom-0" : [
+            
+        ],        
+        ".left-0" : [
+            
+        ],        
+        ".right-0" : [
+            
+        ],        
+        ".pointer-events-none" : [
+            
+        ],        
+        ".overflow-hidden" : [
+            
+        ],        
+        ".fill-current" : [
+            
+        ]
+    },    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : 
+    {
+        "@media (min-width: 640px) {.container }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 768px) {.container }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.container }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1280px) {.container }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:w-auto }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:static }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:block }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:justify-start }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:hidden }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:flex }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:bg-transparent }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:shadow-none }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:flex-row }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:text-white }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:py-2 }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:text-gray-300 }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:ml-auto }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:mr-1 }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:mb-0 }" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
+        ],        
+        "@media (min-width: 1024px) {.lg:w-612 }" : [
+            
+        ]
+    }
+}

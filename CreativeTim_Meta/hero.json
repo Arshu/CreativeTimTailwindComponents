@@ -1,0 +1,324 @@
+{
+    "ComponentPath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\2_Hero\\hero.html",    
+    "StylesheetName" : "all.min.css,compiled-tailwind.css",    
+    "RelativePath" : null,    
+    "HtmlTagList" : [
+        "div","span","h1","p","svg","polygon","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "relative","pt-16","pb-32","flex","content-center","items-center","justify-center","absolute","top-0","w-full","h-full","bg-center","bg-cover","opacity-75","bg-black","container","mx-auto","flex-wrap","lg:w-6/12","px-4","ml-auto","mr-auto","text-center","text-white","font-semibold","text-5xl","mt-4","text-lg","text-gray-300","top-auto","bottom-0","left-0","right-0","pointer-events-none","overflow-hidden","fill-current"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "div","span","p","svg","polygon","*"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        
+    ],    
+    "CssTagStyleList" : [
+        
+        {
+            "Key" : "h1",            
+            "Value" : [
+                "h1 {\n  font-size: 2em;\n  margin: 0.67em 0;\n}"
+            ]
+        },
+        {
+            "Key" : "blockquote,dl,h1,h2,h3,h4,h5,h6,hr,p",            
+            "Value" : [
+                "blockquote,\ndl,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\nhr,\np {\n  margin: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "h1,h2,h3,h4,h5,h6",            
+            "Value" : [
+                "h1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-size: inherit;\n  font-weight: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : "img,svg,canvas,iframe",            
+            "Value" : [
+                "img,\nsvg,\ncanvas,\niframe {\n  display: block;\n  vertical-align: middle;\n}"
+            ]
+        },
+        {
+            "Key" : "html",            
+            "Value" : [
+                "html {\n  line-height: 1.15; /* 1 */\n  -webkit-text-size-adjust: 100%; /* 2 */\n}","html {\n  box-sizing: border-box; /* 1 */\n  font-family: sans-serif; /* 2 */\n}","html {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"; /* 1 */\n  line-height: 1.5; /* 2 */\n}"
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                "body {\n  margin: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "main",            
+            "Value" : [
+                "main {\n  display: block;\n}"
+            ]
+        },
+        {
+            "Key" : "*,*::before,*::after",            
+            "Value" : [
+                "*,\n*::before,\n*::after {\n  box-sizing: inherit;\n}","*,\n*::before,\n*::after {\n  border-width: 0;\n  border-style: solid;\n  border-color: #e2e8f0;\n}"
+            ]
+        }
+    ],    
+    "CssClassStyleList" : [
+        
+        {
+            "Key" : ".relative",            
+            "Value" : [
+                ".relative {\n  position: relative;\n}"
+            ]
+        },
+        {
+            "Key" : ".pt-16",            
+            "Value" : [
+                ".pt-16 {\n  padding-top: 4rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".pb-32",            
+            "Value" : [
+                ".pb-32 {\n  padding-bottom: 8rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".flex",            
+            "Value" : [
+                ".flex {\n  display: -webkit-box;\n  display: flex;\n}"
+            ]
+        },
+        {
+            "Key" : ".content-center",            
+            "Value" : [
+                ".content-center {\n  align-content: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".items-center",            
+            "Value" : [
+                ".items-center {\n  -webkit-box-align: center;\n          align-items: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".justify-center",            
+            "Value" : [
+                ".justify-center {\n  -webkit-box-pack: center;\n          justify-content: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".absolute",            
+            "Value" : [
+                ".absolute {\n  position: absolute;\n}"
+            ]
+        },
+        {
+            "Key" : ".top-0",            
+            "Value" : [
+                ".top-0 {\n  top: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".w-full",            
+            "Value" : [
+                ".w-full {\n  width: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".h-full",            
+            "Value" : [
+                ".h-full {\n  height: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-center",            
+            "Value" : [
+                ".bg-center {\n  background-position: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-cover",            
+            "Value" : [
+                ".bg-cover {\n  background-size: cover;\n}"
+            ]
+        },
+        {
+            "Key" : ".opacity-75",            
+            "Value" : [
+                ".opacity-75 {\n  opacity: 0.75;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-black",            
+            "Value" : [
+                ".bg-black {\n  background-color: #000;\n}"
+            ]
+        },
+        {
+            "Key" : ".container",            
+            "Value" : [
+                ".container {\n  width: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".mx-auto",            
+            "Value" : [
+                ".mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".flex-wrap",            
+            "Value" : [
+                ".flex-wrap {\n  flex-wrap: wrap;\n}"
+            ]
+        },
+        {
+            "Key" : ".px-4",            
+            "Value" : [
+                ".px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".ml-auto",            
+            "Value" : [
+                ".ml-auto {\n  margin-left: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".mr-auto",            
+            "Value" : [
+                ".mr-auto {\n  margin-right: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-center",            
+            "Value" : [
+                ".text-center {\n  text-align: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-white",            
+            "Value" : [
+                ".text-white {\n  color: #fff;\n}"
+            ]
+        },
+        {
+            "Key" : ".font-semibold",            
+            "Value" : [
+                ".font-semibold {\n  font-weight: 600;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-5xl",            
+            "Value" : [
+                ".text-5xl {\n  font-size: 3rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".mt-4",            
+            "Value" : [
+                ".mt-4 {\n  margin-top: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-lg",            
+            "Value" : [
+                ".text-lg {\n  font-size: 1.125rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-gray-300",            
+            "Value" : [
+                ".text-gray-300 {\n  color: #e2e8f0;\n}"
+            ]
+        },
+        {
+            "Key" : ".top-auto",            
+            "Value" : [
+                ".top-auto {\n  top: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".bottom-0",            
+            "Value" : [
+                ".bottom-0 {\n  bottom: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".left-0",            
+            "Value" : [
+                ".left-0 {\n  left: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".right-0",            
+            "Value" : [
+                ".right-0 {\n  right: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".pointer-events-none",            
+            "Value" : [
+                ".pointer-events-none {\n  pointer-events: none;\n}"
+            ]
+        },
+        {
+            "Key" : ".overflow-hidden",            
+            "Value" : [
+                ".overflow-hidden {\n  overflow: hidden;\n}"
+            ]
+        },
+        {
+            "Key" : ".fill-current",            
+            "Value" : [
+                ".fill-current {\n  fill: currentColor;\n}"
+            ]
+        }
+    ],    
+    "CssTagMediaList" : [
+        
+    ],    
+    "CssClassMediaList" : [
+        
+        {
+            "Key" : "@media (min-width: 640px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 640px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 768px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 768px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 1024px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1280px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 1280px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:w-612 }",            
+            "Value" : [
+                ".lg\\:w-6\\/12 {\n    width: 50%;\n  }"
+            ]
+        }
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : null,    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

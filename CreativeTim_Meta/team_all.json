@@ -1,0 +1,218 @@
+{
+    "ComponentPath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\5_TeamInfo\\team.html",    
+    "StylesheetName" : "all.min.css",    
+    "RelativePath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\all.min.css",    
+    "HtmlTagList" : [
+        "section","div","h2","p","img","h5","button","i","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "pt-20","pb-48","container","mx-auto","px-4","flex","flex-wrap","justify-center","text-center","mb-24","w-full","lg:w-6/12","text-4xl","font-semibold","text-lg","leading-relaxed","m-4","text-gray-600","md:w-6/12","lg:w-3/12","lg:mb-0","mb-12","px-6","shadow-lg","rounded-full","max-w-full","pt-6","text-xl","font-bold","mt-1","text-sm","text-gray-500","uppercase","mt-6","bg-blue-400","text-white","w-8","h-8","outline-none","focus:outline-none","mr-1","mb-1","fab","fa-twitter","bg-blue-600","fa-facebook-f","bg-pink-500","fa-dribbble","bg-red-600","fa-google","bg-gray-800","fa-instagram"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "section","div","h2","p","img","h5","button","i","html","body","main","*"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".pt-20",".pb-48",".container",".mx-auto",".px-4",".flex",".flex-wrap",".justify-center",".text-center",".mb-24",".w-full",".lg:w-6/12",".text-4xl",".font-semibold",".text-lg",".leading-relaxed",".m-4",".text-gray-600",".md:w-6/12",".lg:w-3/12",".lg:mb-0",".mb-12",".px-6",".shadow-lg",".rounded-full",".max-w-full",".pt-6",".text-xl",".font-bold",".mt-1",".text-sm",".text-gray-500",".uppercase",".mt-6",".bg-blue-400",".text-white",".w-8",".h-8",".outline-none",".focus:outline-none",".mr-1",".mb-1",".bg-blue-600",".bg-pink-500",".bg-red-600",".bg-gray-800"
+    ],    
+    "CssTagStyleList" : [
+        
+    ],    
+    "CssClassStyleList" : [
+        
+        {
+            "Key" : ".fa,.fas,.far,.fal,.fad,.fab",            
+            "Value" : [
+                ".fa,.fas,.far,.fal,.fad,.fab{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}"
+            ]
+        },
+        {
+            "Key" : ".fab",            
+            "Value" : [
+                ".fab{font-family:'Font Awesome 5 Brands'}"
+            ]
+        },
+        {
+            "Key" : ".fa-twitter::before",            
+            "Value" : [
+                ".fa-twitter:before{content:\"\"}"
+            ]
+        },
+        {
+            "Key" : ".fa-facebook-f::before",            
+            "Value" : [
+                ".fa-facebook-f:before{content:\"\"}"
+            ]
+        },
+        {
+            "Key" : ".fa-dribbble::before",            
+            "Value" : [
+                ".fa-dribbble:before{content:\"\"}"
+            ]
+        },
+        {
+            "Key" : ".fa-google::before",            
+            "Value" : [
+                ".fa-google:before{content:\"\"}"
+            ]
+        },
+        {
+            "Key" : ".fa-instagram::before",            
+            "Value" : [
+                ".fa-instagram:before{content:\"\"}"
+            ]
+        }
+    ],    
+    "CssTagMediaList" : [
+        
+    ],    
+    "CssClassMediaList" : [
+        
+    ],    
+    "CssFontFaceList" : [
+        
+        {
+            "Key" : "@font-face { font-family: \"Font Awesome 5 Brands\"; font-style: normal; font-weight: normal; font-display: auto; src: url(\"webfonts/fa-brands-400.eot?#iefix\") format(\"embedded-opentype\"), url(\"webfonts/fa-brands-400.woff2\") format(\"woff2\"), url(\"webfonts/fa-brands-400.woff\") format(\"woff\"), url(\"webfonts/fa-brands-400.ttf\") format(\"truetype\"), url(\"webfonts/fa-brands-400.svg#fontawesome\") format(\"svg\") }",            
+            "Value" : [
+                
+                {
+                    "Key" : "webfonts/fa-brands-400.eot?#iefix",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-brands-400.woff2",                    
+                    "Value" : "webfonts\\fa-brands-400.woff2"
+                },
+                {
+                    "Key" : "webfonts/fa-brands-400.woff",                    
+                    "Value" : "webfonts\\fa-brands-400.woff"
+                },
+                {
+                    "Key" : "webfonts/fa-brands-400.ttf",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-brands-400.svg#fontawesome",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 400; font-display: auto; src: url(\"webfonts/fa-regular-400.eot?#iefix\") format(\"embedded-opentype\"), url(\"webfonts/fa-regular-400.woff2\") format(\"woff2\"), url(\"webfonts/fa-regular-400.woff\") format(\"woff\"), url(\"webfonts/fa-regular-400.ttf\") format(\"truetype\"), url(\"webfonts/fa-regular-400.svg#fontawesome\") format(\"svg\") }",            
+            "Value" : [
+                
+                {
+                    "Key" : "webfonts/fa-regular-400.eot?#iefix",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-regular-400.woff2",                    
+                    "Value" : "webfonts\\fa-regular-400.woff2"
+                },
+                {
+                    "Key" : "webfonts/fa-regular-400.woff",                    
+                    "Value" : "webfonts\\fa-regular-400.woff"
+                },
+                {
+                    "Key" : "webfonts/fa-regular-400.ttf",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-regular-400.svg#fontawesome",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 900; font-display: auto; src: url(\"webfonts/fa-solid-900.eot?#iefix\") format(\"embedded-opentype\"), url(\"webfonts/fa-solid-900.woff2\") format(\"woff2\"), url(\"webfonts/fa-solid-900.woff\") format(\"woff\"), url(\"webfonts/fa-solid-900.ttf\") format(\"truetype\"), url(\"webfonts/fa-solid-900.svg#fontawesome\") format(\"svg\") }",            
+            "Value" : [
+                
+                {
+                    "Key" : "webfonts/fa-solid-900.eot?#iefix",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-solid-900.woff2",                    
+                    "Value" : "webfonts\\fa-solid-900.woff2"
+                },
+                {
+                    "Key" : "webfonts/fa-solid-900.woff",                    
+                    "Value" : "webfonts\\fa-solid-900.woff"
+                },
+                {
+                    "Key" : "webfonts/fa-solid-900.ttf",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-solid-900.svg#fontawesome",                    
+                    "Value" : ""
+                }
+            ]
+        }
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : 
+    {
+        ".fa,.fas,.far,.fal,.fad,.fab" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".fa,.fas" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".fa-bars::before" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".far" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".fa-file-alt::before" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".fab" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".fa-facebook::before" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".fa-twitter::before" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".fa-github::before" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".fa-award::before" : [
+            
+        ],        
+        ".fa-instagram::before" : [
+            
+        ],        
+        ".fa-google::before" : [
+            
+        ],        
+        ".fa-pinterest::before" : [
+            
+        ],        
+        ".fa-facebook-f::before" : [
+            
+        ],        
+        ".fa-dribbble::before" : [
+            
+        ],        
+        ".fa-user-friends::before" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".fa-rocket::before" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
+        ],        
+        ".fa-fingerprint::before" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
+        ],        
+        ".fa-html5::before" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
+        ],        
+        ".fa-paper-plane::before" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
+        ]
+    },    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

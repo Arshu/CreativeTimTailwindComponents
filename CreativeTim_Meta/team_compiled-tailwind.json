@@ -1,0 +1,874 @@
+{
+    "ComponentPath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\5_TeamInfo\\team.html",    
+    "StylesheetName" : "compiled-tailwind.css",    
+    "RelativePath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\compiled-tailwind.css",    
+    "HtmlTagList" : [
+        "section","div","h2","p","img","h5","button","i","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "pt-20","pb-48","container","mx-auto","px-4","flex","flex-wrap","justify-center","text-center","mb-24","w-full","lg:w-6/12","text-4xl","font-semibold","text-lg","leading-relaxed","m-4","text-gray-600","md:w-6/12","lg:w-3/12","lg:mb-0","mb-12","px-6","shadow-lg","rounded-full","max-w-full","pt-6","text-xl","font-bold","mt-1","text-sm","text-gray-500","uppercase","mt-6","bg-blue-400","text-white","w-8","h-8","outline-none","focus:outline-none","mr-1","mb-1","fab","fa-twitter","bg-blue-600","fa-facebook-f","bg-pink-500","fa-dribbble","bg-red-600","fa-google","bg-gray-800","fa-instagram"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "section","div","i"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".focus:outline-none",".fab",".fa-twitter",".fa-facebook-f",".fa-dribbble",".fa-google",".fa-instagram"
+    ],    
+    "CssTagStyleList" : [
+        
+        {
+            "Key" : "blockquote,dl,h1,h2,h3,h4,h5,h6,hr,p",            
+            "Value" : [
+                "blockquote,\ndl,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\nhr,\np {\n  margin: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "h1,h2,h3,h4,h5,h6",            
+            "Value" : [
+                "h1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-size: inherit;\n  font-weight: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : "img",            
+            "Value" : [
+                "img {\n  border-style: none;\n}","img {\n  border-style: solid;\n}","img {\n  max-width: 100%;\n  height: auto;\n}"
+            ]
+        },
+        {
+            "Key" : "img,svg,canvas,iframe",            
+            "Value" : [
+                "img,\nsvg,\ncanvas,\niframe {\n  display: block;\n  vertical-align: middle;\n}"
+            ]
+        },
+        {
+            "Key" : "button,input,textarea",            
+            "Value" : [
+                "button,\ninput,\ntextarea {\n  font-family: inherit; /* 1 */\n  font-size: 100%; /* 1 */\n  line-height: 1.15; /* 1 */\n  margin: 0; /* 2 */\n}","button,\ninput,\ntextarea {\n  padding: 0;\n  line-height: inherit;\n  color: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : "button,input",            
+            "Value" : [
+                "button,\ninput { /* 1 */\n  overflow: visible;\n}"
+            ]
+        },
+        {
+            "Key" : "button",            
+            "Value" : [
+                "button { /* 1 */\n  text-transform: none;\n}","button {\n  background: transparent;\n  padding: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "button,[type=\"button\"],[type=\"reset\"],[type=\"submit\"]",            
+            "Value" : [
+                "button,\n[type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}"
+            ]
+        },
+        {
+            "Key" : "button,[role=\"button\"]",            
+            "Value" : [
+                "button,\n[role=\"button\"] {\n  cursor: pointer;\n}"
+            ]
+        },
+        {
+            "Key" : "html",            
+            "Value" : [
+                "html {\n  line-height: 1.15; /* 1 */\n  -webkit-text-size-adjust: 100%; /* 2 */\n}","html {\n  box-sizing: border-box; /* 1 */\n  font-family: sans-serif; /* 2 */\n}","html {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"; /* 1 */\n  line-height: 1.5; /* 2 */\n}"
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                "body {\n  margin: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "main",            
+            "Value" : [
+                "main {\n  display: block;\n}"
+            ]
+        },
+        {
+            "Key" : "*,*::before,*::after",            
+            "Value" : [
+                "*,\n*::before,\n*::after {\n  box-sizing: inherit;\n}","*,\n*::before,\n*::after {\n  border-width: 0;\n  border-style: solid;\n  border-color: #e2e8f0;\n}"
+            ]
+        }
+    ],    
+    "CssClassStyleList" : [
+        
+        {
+            "Key" : ".pt-20",            
+            "Value" : [
+                ".pt-20 {\n  padding-top: 5rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".pb-48",            
+            "Value" : [
+                ".pb-48 {\n  padding-bottom: 12rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".container",            
+            "Value" : [
+                ".container {\n  width: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".mx-auto",            
+            "Value" : [
+                ".mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}"
+            ]
+        },
+        {
+            "Key" : ".px-4",            
+            "Value" : [
+                ".px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".flex",            
+            "Value" : [
+                ".flex {\n  display: -webkit-box;\n  display: flex;\n}"
+            ]
+        },
+        {
+            "Key" : ".flex-wrap",            
+            "Value" : [
+                ".flex-wrap {\n  flex-wrap: wrap;\n}"
+            ]
+        },
+        {
+            "Key" : ".justify-center",            
+            "Value" : [
+                ".justify-center {\n  -webkit-box-pack: center;\n          justify-content: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-center",            
+            "Value" : [
+                ".text-center {\n  text-align: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".mb-24",            
+            "Value" : [
+                ".mb-24 {\n  margin-bottom: 6rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".w-full",            
+            "Value" : [
+                ".w-full {\n  width: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-4xl",            
+            "Value" : [
+                ".text-4xl {\n  font-size: 2.25rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".font-semibold",            
+            "Value" : [
+                ".font-semibold {\n  font-weight: 600;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-lg",            
+            "Value" : [
+                ".text-lg {\n  font-size: 1.125rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".leading-relaxed",            
+            "Value" : [
+                ".leading-relaxed {\n  line-height: 1.625;\n}"
+            ]
+        },
+        {
+            "Key" : ".m-4",            
+            "Value" : [
+                ".m-4 {\n  margin: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-gray-600",            
+            "Value" : [
+                ".text-gray-600 {\n  color: #718096;\n}"
+            ]
+        },
+        {
+            "Key" : ".mb-12",            
+            "Value" : [
+                ".mb-12 {\n  margin-bottom: 3rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".px-6",            
+            "Value" : [
+                ".px-6 {\n  padding-left: 1.5rem;\n  padding-right: 1.5rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".shadow-lg",            
+            "Value" : [
+                ".shadow-lg {\n  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);\n}"
+            ]
+        },
+        {
+            "Key" : ".rounded-full",            
+            "Value" : [
+                ".rounded-full {\n  border-radius: 9999px;\n}"
+            ]
+        },
+        {
+            "Key" : ".max-w-full",            
+            "Value" : [
+                ".max-w-full {\n  max-width: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".pt-6",            
+            "Value" : [
+                ".pt-6 {\n  padding-top: 1.5rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-xl",            
+            "Value" : [
+                ".text-xl {\n  font-size: 1.25rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".font-bold",            
+            "Value" : [
+                ".font-bold {\n  font-weight: 700;\n}"
+            ]
+        },
+        {
+            "Key" : ".mt-1",            
+            "Value" : [
+                ".mt-1 {\n  margin-top: 0.25rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-sm",            
+            "Value" : [
+                ".text-sm {\n  font-size: 0.875rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-gray-500",            
+            "Value" : [
+                ".text-gray-500 {\n  color: #a0aec0;\n}"
+            ]
+        },
+        {
+            "Key" : ".uppercase",            
+            "Value" : [
+                ".uppercase {\n  text-transform: uppercase;\n}"
+            ]
+        },
+        {
+            "Key" : ".mt-6",            
+            "Value" : [
+                ".mt-6 {\n  margin-top: 1.5rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-blue-400",            
+            "Value" : [
+                ".bg-blue-400 {\n  background-color: #63b3ed;\n}"
+            ]
+        },
+        {
+            "Key" : ".text-white",            
+            "Value" : [
+                ".text-white {\n  color: #fff;\n}"
+            ]
+        },
+        {
+            "Key" : ".w-8",            
+            "Value" : [
+                ".w-8 {\n  width: 2rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".h-8",            
+            "Value" : [
+                ".h-8 {\n  height: 2rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".outline-none",            
+            "Value" : [
+                ".outline-none {\n  outline: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".mr-1",            
+            "Value" : [
+                ".mr-1 {\n  margin-right: 0.25rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".mb-1",            
+            "Value" : [
+                ".mb-1 {\n  margin-bottom: 0.25rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-blue-600",            
+            "Value" : [
+                ".bg-blue-600 {\n  background-color: #3182ce;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-pink-500",            
+            "Value" : [
+                ".bg-pink-500 {\n  background-color: #ed64a6;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-red-600",            
+            "Value" : [
+                ".bg-red-600 {\n  background-color: #e53e3e;\n}"
+            ]
+        },
+        {
+            "Key" : ".bg-gray-800",            
+            "Value" : [
+                ".bg-gray-800 {\n  background-color: #2d3748;\n}"
+            ]
+        }
+    ],    
+    "CssTagMediaList" : [
+        
+    ],    
+    "CssClassMediaList" : [
+        
+        {
+            "Key" : "@media (min-width: 640px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 640px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 768px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 768px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 1024px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1280px) {.container }",            
+            "Value" : [
+                ".container {\n    max-width: 1280px;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:w-612 }",            
+            "Value" : [
+                ".lg\\:w-6\\/12 {\n    width: 50%;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 768px) {.md:w-612 }",            
+            "Value" : [
+                ".md\\:w-6\\/12 {\n    width: 50%;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:w-312 }",            
+            "Value" : [
+                ".lg\\:w-3\\/12 {\n    width: 25%;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1024px) {.lg:mb-0 }",            
+            "Value" : [
+                ".lg\\:mb-0 {\n    margin-bottom: 0;\n  }"
+            ]
+        }
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : 
+    {
+        "a" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "button,input,textarea" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "button,input" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "button" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "button,[type=\"button\"],[type=\"reset\"],[type=\"submit\"]" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "button,[role=\"button\"]" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "ul" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "html" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "body" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "main" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "*,*::before,*::after" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        "h1" : [
+            
+        ],        
+        "blockquote,dl,h1,h2,h3,h4,h5,h6,hr,p" : [
+            
+        ],        
+        "h1,h2,h3,h4,h5,h6" : [
+            
+        ],        
+        "img,svg,canvas,iframe" : [
+            
+        ],        
+        "img" : [
+            
+        ]
+    },    
+    "CssClassMeta" : 
+    {
+        ".top-0" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".z-50" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".w-full" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".flex" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".flex-wrap" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".items-center" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".justify-between" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".px-2" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".py-3" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".bg-black" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".container" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".px-4" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".mx-auto" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".relative" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".text-sm" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".font-bold" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".leading-relaxed" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".inline-block" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".mr-4" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".py-2" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".whitespace-no-wrap" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".uppercase" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".text-white" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".cursor-pointer" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".text-xl" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".leading-none" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".px-3" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".py-1" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".border" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".border-solid" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".border-transparent" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".rounded" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".bg-transparent" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".block" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".outline-none" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".flex-grow" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".bg-white" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".hidden" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".flex-col" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".list-none" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".mr-auto" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".text-gray-800" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".py-4" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".text-xs" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".text-gray-500" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".text-lg" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".mr-2" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".ml-2" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".shadow" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".ml-3" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".mb-3" : [
+            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+        ],        
+        ".bg-blue-100" : [
+            
+        ],        
+        ".pt-16" : [
+            
+        ],        
+        ".pb-32" : [
+            
+        ],        
+        ".content-center" : [
+            
+        ],        
+        ".justify-center" : [
+            
+        ],        
+        ".absolute" : [
+            
+        ],        
+        ".h-full" : [
+            
+        ],        
+        ".bg-center" : [
+            
+        ],        
+        ".bg-cover" : [
+            
+        ],        
+        ".opacity-75" : [
+            
+        ],        
+        ".ml-auto" : [
+            
+        ],        
+        ".text-center" : [
+            
+        ],        
+        ".font-semibold" : [
+            
+        ],        
+        ".text-5xl" : [
+            
+        ],        
+        ".mt-4" : [
+            
+        ],        
+        ".text-gray-300" : [
+            
+        ],        
+        ".top-auto" : [
+            
+        ],        
+        ".bottom-0" : [
+            
+        ],        
+        ".left-0" : [
+            
+        ],        
+        ".right-0" : [
+            
+        ],        
+        ".pointer-events-none" : [
+            
+        ],        
+        ".overflow-hidden" : [
+            
+        ],        
+        ".fill-current" : [
+            
+        ],        
+        ".pb-20" : [
+            
+        ],        
+        ".bg-gray-300" : [
+            
+        ],        
+        ".-mt-24" : [
+            
+        ],        
+        ".pt-6" : [
+            
+        ],        
+        ".min-w-0" : [
+            
+        ],        
+        ".break-words" : [
+            
+        ],        
+        ".mb-8" : [
+            
+        ],        
+        ".shadow-lg" : [
+            
+        ],        
+        ".rounded-lg" : [
+            
+        ],        
+        ".py-5" : [
+            
+        ],        
+        ".flex-auto" : [
+            
+        ],        
+        ".p-3" : [
+            
+        ],        
+        ".inline-flex" : [
+            
+        ],        
+        ".w-12" : [
+            
+        ],        
+        ".h-12" : [
+            
+        ],        
+        ".mb-5" : [
+            
+        ],        
+        ".rounded-full" : [
+            
+        ],        
+        ".bg-red-400" : [
+            
+        ],        
+        ".mt-2" : [
+            
+        ],        
+        ".mb-4" : [
+            
+        ],        
+        ".text-gray-600" : [
+            
+        ],        
+        ".bg-blue-400" : [
+            
+        ],        
+        ".bg-green-400" : [
+            
+        ],        
+        ".pt-20" : [
+            
+        ],        
+        ".pb-48" : [
+            
+        ],        
+        ".mb-24" : [
+            
+        ],        
+        ".text-4xl" : [
+            
+        ],        
+        ".m-4" : [
+            
+        ],        
+        ".mb-12" : [
+            
+        ],        
+        ".px-6" : [
+            
+        ],        
+        ".max-w-full" : [
+            
+        ],        
+        ".mt-1" : [
+            
+        ],        
+        ".mt-6" : [
+            
+        ],        
+        ".w-8" : [
+            
+        ],        
+        ".h-8" : [
+            
+        ],        
+        ".mr-1" : [
+            
+        ],        
+        ".mb-1" : [
+            
+        ],        
+        ".bg-blue-600" : [
+            
+        ],        
+        ".bg-pink-500" : [
+            
+        ],        
+        ".bg-red-600" : [
+            
+        ],        
+        ".bg-gray-800" : [
+            
+        ],        
+        ".mt-32" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".w-16" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".h-16" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".mb-6" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".bg-gray-100" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".text-3xl" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".mb-2" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".leading-normal" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".font-light" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".text-gray-700" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".mt-0" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".mt-8" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".bg-pink-600" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".align-middle" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".rounded-t-lg" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".p-8" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".text-pink-600" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
+        ],        
+        ".py-20" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
+        ],        
+        ".bottom-auto" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
+        ],        
+        ".-mt-20" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
+        ],        
+        ".bg-pink-300" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
+        ],        
+        ".bg-pink-200" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
+        ],        
+        ".mr-3" : [
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
+        ]
+    },    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

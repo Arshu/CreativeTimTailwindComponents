@@ -129,64 +129,34 @@
     "CssClassMeta" : 
     {
         ".fa,.fas,.far,.fal,.fad,.fab" : [
-            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
         ],        
         ".fa,.fas" : [
-            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
         ],        
         ".fa-bars::before" : [
-            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
         ],        
         ".far" : [
-            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
         ],        
         ".fa-file-alt::before" : [
-            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
         ],        
         ".fab" : [
-            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
         ],        
         ".fa-facebook::before" : [
-            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
         ],        
         ".fa-twitter::before" : [
-            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
         ],        
         ".fa-github::before" : [
-            "Templates\\Tailwind\\CreativeTim\\LandingPage\\1_Nav_Black\\nav.html"
+            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
         ],        
         ".fa-award::before" : [
             
-        ],        
-        ".fa-instagram::before" : [
-            
-        ],        
-        ".fa-google::before" : [
-            
-        ],        
-        ".fa-pinterest::before" : [
-            
-        ],        
-        ".fa-facebook-f::before" : [
-            
-        ],        
-        ".fa-dribbble::before" : [
-            
-        ],        
-        ".fa-user-friends::before" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\3_Highlight\\Info\\highlightinfo.html"
-        ],        
-        ".fa-rocket::before" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
-        ],        
-        ".fa-fingerprint::before" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
-        ],        
-        ".fa-html5::before" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
-        ],        
-        ".fa-paper-plane::before" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\4_Information\\info.html"
         ]
     },    
     "CssTagMediaMeta" : null,    

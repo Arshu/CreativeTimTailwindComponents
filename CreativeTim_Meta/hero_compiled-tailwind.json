@@ -585,70 +585,77 @@
         ],        
         ".fill-current" : [
             
+        ],        
+        ".pb-20" : [
+            
+        ],        
+        ".bg-gray-300" : [
+            
+        ],        
+        ".-mt-24" : [
+            
+        ],        
+        ".pt-6" : [
+            
+        ],        
+        ".min-w-0" : [
+            
+        ],        
+        ".break-words" : [
+            
+        ],        
+        ".mb-8" : [
+            
+        ],        
+        ".shadow-lg" : [
+            
+        ],        
+        ".rounded-lg" : [
+            
+        ],        
+        ".py-5" : [
+            
+        ],        
+        ".flex-auto" : [
+            
+        ],        
+        ".p-3" : [
+            
+        ],        
+        ".inline-flex" : [
+            
+        ],        
+        ".w-12" : [
+            
+        ],        
+        ".h-12" : [
+            
+        ],        
+        ".mb-5" : [
+            
+        ],        
+        ".rounded-full" : [
+            
+        ],        
+        ".bg-red-400" : [
+            
+        ],        
+        ".mt-2" : [
+            
+        ],        
+        ".mb-4" : [
+            
+        ],        
+        ".text-gray-600" : [
+            
+        ],        
+        ".bg-blue-400" : [
+            
+        ],        
+        ".bg-green-400" : [
+            
         ]
     },    
     "CssTagMediaMeta" : null,    
-    "CssClassMediaMeta" : 
-    {
-        "@media (min-width: 640px) {.container }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 768px) {.container }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.container }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1280px) {.container }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:w-auto }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:static }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:block }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:justify-start }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:hidden }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:flex }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:bg-transparent }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:shadow-none }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:flex-row }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:text-white }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:py-2 }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:text-gray-300 }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:ml-auto }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:mr-1 }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:mb-0 }" : [
-            "Templates\\CreativeTimTailwindComponents\\CreativeTim\\LandingPage\\1_Navigation\\nav.html"
-        ],        
-        "@media (min-width: 1024px) {.lg:w-612 }" : [
-            
-        ]
-    }
+    "CssClassMediaMeta" : null
 }
